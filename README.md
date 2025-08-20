@@ -15,7 +15,7 @@ It features a sticky navigation bar, a product grid with hover animations, and a
 ---
 
 ## 🚀 Live Demo
-[Click here to view the live site](YOUR_GITHUB_PAGES_LINK)
+[Click here to view the live site](https://bercygodson-alt.github.io/greenden_tailwind/)
 
 
 ## 🛠️ Tech Stack
